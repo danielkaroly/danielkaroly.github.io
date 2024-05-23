@@ -6,7 +6,7 @@ Selected projects in data analytics, data science and machine learning
 ### Category Name 1 
 
 [Cocoa Belt of Africa](/sample_page)
-<img src="images/Total_cocoa_plot.jpg?raw=true"/>
+<img src="images/tot_cocoa_white.jpg?raw=true"/>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
