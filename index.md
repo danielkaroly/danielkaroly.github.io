@@ -7,11 +7,8 @@ Selected projects in data analytics, data science and machine learning
 
 [Cocoa Belt of Africa](/sample_page)
 
-<img src="images/tot_cocoa_white.jpg?raw=true"/>
+<img src="images/cocoa_collection.jpg?raw=true"/>
 
-<img src="images/cocoa_comp.jpg?raw=true"/>
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
