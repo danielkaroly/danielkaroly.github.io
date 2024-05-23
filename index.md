@@ -9,7 +9,7 @@ Selected projects in data analytics, data science and machine learning
 
 <img src="images/tot_cocoa_white.jpg?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cocoa_comp.jpg?raw=true"/>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
