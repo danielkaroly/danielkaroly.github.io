@@ -6,7 +6,7 @@ Selected projects in data analytics, data science and machine learning
 ### Data Analytics Project 
 This project transitioned from exploratory data analysis in Jupyter notebooks to an interactive Streamlit application, focusing on cocoa production trends in key African countries. The Streamlit platform improved functionality, allowing for dynamic visualizations, real-time updates, and a more user-friendly interface for engaging with complex datasets.
 
-[Cocoa Belt of Africa](/sample_page)
+[Cocoa Belt of Africa](https://cocoabeltofafrica.streamlit.app/)
 
 <img src="images/cocoa_collection.jpg?raw=true"/>
 
