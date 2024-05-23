@@ -1,4 +1,5 @@
 ## Portfolio
+Selected projects in data analytics, data science and machine learning
 
 ---
 
