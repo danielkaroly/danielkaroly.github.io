@@ -13,6 +13,7 @@ This project transitioned from exploratory data analysis in Jupyter notebooks to
 
 ---
 ### Data Science Project: [Natural Gas Futures Price Prediction](https://github.com/danielkaroly/Natural-Gas-Futures-Forecast)
+In this project, I developed a model to predict future natural gas prices using both Monte Carlo simulation and time series prediction with Prophet. The data, sourced from a single online platform, was processed and analyzed using Python in a Jupyter Notebook environment. The Monte Carlo simulation provided probabilistic price forecasts, while the Prophet model leveraged historical data to generate accurate time series predictions.
 
 <img src="images/NG_collection.jpg?raw=true"/>
 
