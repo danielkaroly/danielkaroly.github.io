@@ -12,6 +12,7 @@ This project transitioned from exploratory data analysis in Jupyter notebooks to
 
 
 ---
+### Data Science Project: Natural Gas Futures Price Prediction
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
