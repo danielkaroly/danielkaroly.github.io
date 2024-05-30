@@ -17,18 +17,11 @@ This project transitioned from exploratory data analysis in Jupyter notebooks to
 <img src="images/NG_collection.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[coming soon...](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](https://cocoabeltofafrica.streamlit.app/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
